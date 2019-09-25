@@ -1,8 +1,6 @@
 # Gatsby Simple Blog
 
-## 🛠 Live Site
-
-![Click Here](https://distracted-mccarthy-e3a4f8.netlify.com)
+## 🛠 <a href="https://distracted-mccarthy-e3a4f8.netlify.com/" target="_blank">[Live Site]</a>
 
 ## 🛠 Installation
 
